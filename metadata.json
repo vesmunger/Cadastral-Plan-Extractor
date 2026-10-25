@@ -1,0 +1,5 @@
+{
+  "name": "Cadastral Plan Extractor",
+  "description": "An AI-powered tool to extract metadata and parcel polygons from cadastral survey plans using Gemini.",
+  "requestFramePermissions": []
+}
